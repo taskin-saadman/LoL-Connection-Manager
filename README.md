@@ -116,5 +116,5 @@ Gamer JohnDoe removed successfully.
 Contributions are welcome! If you have suggestions, feel free to open an issue or submit a pull request.
 
 ## Author
-Taskin Saadman (GitHub: taskin-saadman)
+Taskin Saadman (GitHub: @taskin-saadman)
 
