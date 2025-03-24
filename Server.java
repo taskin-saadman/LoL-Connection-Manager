@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.util.LinkedHashMap;
-import java.util.Arrays;
 
 public class Server {
     //linked hashmap storing registered gamers (order of entry preserved)
