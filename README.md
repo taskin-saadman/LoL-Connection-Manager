@@ -94,7 +94,7 @@ Gamer JohnDoe added successfully.
 > ADD_GAMER "Faker Pro"
 Gamer Faker Pro added successfully.
 
-> CONNECT JohnDoe NA-Server 4500
+> CONNECT JohnDoe NA 4500
 Gamer JohnDoe connected to NA with id 4500.
 
 > STATUS JohnDoe
@@ -103,7 +103,7 @@ Server: NA
 ID: 4500
 
 > LIST_CONNECTIONS
-Gamer: JohnDoe -> Server: NA-Server, ID: 4500
+Gamer: JohnDoe -> Server: NA, ID: 4500
 
 > DISCONNECT JohnDoe
 Gamer JohnDoe disconnected successfully.
