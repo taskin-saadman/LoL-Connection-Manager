@@ -376,9 +376,6 @@ public class Server {
 
         System.out.println("Exiting League of Legends Connection Manager. Goodbye!");
 
-        //close scanner before exitting
-        sc.close();
-
         //exitting the program right here
         System.exit(0);
     }
