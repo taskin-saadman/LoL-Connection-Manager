@@ -12,6 +12,7 @@ A console-based Java application that simulates a connection manager for League 
 - List all active connections
 - Remove gamers from the system
 - Help command to display available commands
+- Permanently ban a player from a server
 - Exit the application
 
 ## Installation
